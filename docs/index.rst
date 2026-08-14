@@ -6,7 +6,7 @@ Xerox Customer Care provides assistance to customers who need help with Xerox pr
 .. image:: https://img.shields.io/badge/Support%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://arsresolution.com/
    :alt: Support Now Button
 
 Xerox provides several support resources, including online documentation, troubleshooting guides, product manuals, software downloads, drivers, and service information. Customers should use the exact product model when searching for assistance because troubleshooting procedures can differ between Xerox devices.
